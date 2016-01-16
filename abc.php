@@ -1,5 +1,1 @@
-<?php
-
-	echo "abc";
-
-?>
+echo "abc";
